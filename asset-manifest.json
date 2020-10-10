@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qukad/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/qukad/static/js/main.ca1df0b5.chunk.js",
+    "main.js.map": "/qukad/static/js/main.ca1df0b5.chunk.js.map",
+    "runtime-main.js": "/qukad/static/js/runtime-main.048105d8.js",
+    "runtime-main.js.map": "/qukad/static/js/runtime-main.048105d8.js.map",
+    "static/js/2.7661173c.chunk.js": "/qukad/static/js/2.7661173c.chunk.js",
+    "static/js/2.7661173c.chunk.js.map": "/qukad/static/js/2.7661173c.chunk.js.map",
+    "index.html": "/qukad/index.html",
+    "precache-manifest.a7d6b55e241b46500b177549128129d6.js": "/qukad/precache-manifest.a7d6b55e241b46500b177549128129d6.js",
+    "service-worker.js": "/qukad/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/qukad/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7661173c.chunk.js.LICENSE.txt": "/qukad/static/js/2.7661173c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.048105d8.js",
+    "static/js/2.7661173c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ca1df0b5.chunk.js"
+  ]
+}
